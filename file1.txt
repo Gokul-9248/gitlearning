@@ -1,3 +1,5 @@
 hello gooys
 my first file1 editing. and is ready for commit.
 to check whether git is tracking or not
+editing again for the seccond commit
+thanks bye
